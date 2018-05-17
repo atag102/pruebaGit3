@@ -1,1 +1,1 @@
-web: gunicorn pruebaGit3.wgsi
+web: gunicorn pruebaGit3.wgsi --log-file -
